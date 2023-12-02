@@ -1,0 +1,4 @@
+town_name,latitude,longitude,level_box_lat_max,level_box_long_max,level_box_lat_min,level_box_long_min,rainfall_box_lat_max,rainfall_box_long_max,rainfall_box_lat_min,rainfall_box_long_min,county,station_id
+Carlisle,54.8951,-2.9382,54.912827,-2.881322,54.853151,-2.963486,54.91,-2.17,54.49,-3.2,cumbria,01070_carlisle
+Chesterfield,53.25,-1.4167,53.242734,-1.398178,53.21244,-1.454659,53.250698,-1.190151,53.005795,-1.701132,south-yorkshire,00525_sheffield
+Exeter,50.7236,-3.5275,50.759747,-3.496147,50.690882,-3.559651,51.06,-3.21,50.68,-3.85,devon,62041_exeter-airport-no-2
